@@ -1,4 +1,4 @@
-# Pomodoro Time
+# Pomodoro Timer
 
 Aumente sua produtividade :apple: :clock1:
 
