@@ -56,5 +56,5 @@ Temporizador de atividades diárias com a tecnica do Pomodoro
 
 
 
-Feito com carinho por Gabriel Nicodemos 
+Feito com carinho por Gabriel Nicodemos :purple_heart:
 
